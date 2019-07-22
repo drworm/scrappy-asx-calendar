@@ -2,6 +2,8 @@
 
 Quick and Dirty ASX calendar events for the upcoming August 2019 reporting season.
 
+![Example Calendar](/docs/example.png)
+
 URL: https://investorwag.com/magic/scrappy-asx-calendar.ics
 
 It's a published [iCal](https://icalendar.org/) file which you can subscribe to with popular calendar applications.
