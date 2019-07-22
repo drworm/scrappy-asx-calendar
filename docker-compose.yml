@@ -1,0 +1,14 @@
+version: '2'
+
+services:
+  dev:
+    build: .
+    volumes:
+      - .:/work
+    environment:
+      AWS_ACCESS_KEY_ID:
+      AWS_SECRET_ACCESS_KEY:
+      AWS_SESSION_TOKEN:
+      S3_BUCKET:
+    working_dir: /work
+    command: ["bash"]

@@ -1,0 +1,350 @@
+---
+events:
+  - summary: RMD 4Q19
+    date: 2019-07-25
+    description: |
+      From https://www.commsec.com.au/reportingseason
+      Est. NPAT ($A): 129M USD
+      Est. DPS ($A): 0.039 USD
+  - summary: CCP FY19
+    date: 2019-07-30
+    description: |
+      From https://www.commsec.com.au/reportingseason
+      Est. NPAT ($A): 70.73M
+      Est. DPS ($A): 0.352
+  - summary: RIO HY19
+    date: 2019-08-01
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SCP FY19
+    date: 2019-08-06
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BWP FY19
+    date: 2019-08-06
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: TLC FY19
+    date: 2019-08-07
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CBA FY19
+    date: 2019-08-07
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SUN FY19
+    date: 2019-08-07
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: AMP HY19
+    date: 2019-08-08
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: AGL FY19
+    date: 2019-08-08
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MGR FY19
+    date: 2019-08-08
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: IAG FY19
+    date: 2019-08-08
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: AZJ FY19
+    date: 2019-08-12
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: GTP HY19
+    date: 2019-08-12
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ARG FY19
+    date: 2019-08-12
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BEN FY19
+    date: 2019-08-12
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: JBH FY19
+    date: 2019-08-12
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ANN FY19
+    date: 2019-08-12
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CGF FY19
+    date: 2019-08-13
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MFG FY19
+    date: 2019-08-13
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: TAH FY19
+    date: 2019-08-14
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CPU FY19
+    date: 2019-08-14
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CSL FY19
+    date: 2019-08-14
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: DXS FY19
+    date: 2019-08-14
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ASX FY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WHC FY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WPL HY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: QBE HY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: TLS FY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: EVN FY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SUL FY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SYD HY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BKL FY19
+    date: 2019-08-15
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BBN FY19
+    date: 2019-08-16
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: DHG FY19
+    date: 2019-08-16
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: COH FY19
+    date: 2019-08-16
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: HLS FY19
+    date: 2019-08-16
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: NCM FY19
+    date: 2019-08-16
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SGR FY19
+    date: 2019-08-16
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ALU FY19
+    date: 2019-08-19
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BSL FY19
+    date: 2019-08-19
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: GWA FY19
+    date: 2019-08-19
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: NHF FY19
+    date: 2019-08-19
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: LLC FY19
+    date: 2019-08-19
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BHP FY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SEK FY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: EHE FY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: OSH HY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SXY FY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: TGR FY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SHL FY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MND FY19
+    date: 2019-08-20
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: A2M FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CWN FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: AVN FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: DMP FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ILU HY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: EHL FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: DTL FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MMS FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SBM FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WOR FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WTC FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SGP FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BXB FY19
+    date: 2019-08-21
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: GOZ FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: S32 FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: COL FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WEB FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: DOW FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MYS FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SCG HY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CCL HY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: SXL FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: VOC FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: EPW FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: FLT FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: QAN FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: QUB FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: STO HY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MPL FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: Z1P FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: PPT FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: AWC HY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ORG FY19
+    date: 2019-08-22
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BWX FY19
+    date: 2019-08-23
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: GMG FY19
+    date: 2019-08-23
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: AAD FY19
+    date: 2019-08-23
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: IRE HY19
+    date: 2019-08-23
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CYG FY19
+    date: 2019-08-23
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MYX FY19
+    date: 2019-08-23
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WPP HY19
+    date: 2019-08-23
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: FMG FY19
+    date: 2019-08-26
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: IFL FY19
+    date: 2019-08-26
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: RIC FY19
+    date: 2019-08-26
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: AYS FY19
+    date: 2019-08-26
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: GEM FY19
+    date: 2019-08-26
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: MVF FY19
+    date: 2019-08-26
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BLD FY19
+    date: 2019-08-26
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WES FY19
+    date: 2019-08-27
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ING FY19
+    date: 2019-08-27
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CTX HY19
+    date: 2019-08-27
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: BAL FY19
+    date: 2019-08-28
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: OZL HY19
+    date: 2019-08-28
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: WOW FY19
+    date: 2019-08-29
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: LNK FY19
+    date: 2019-08-29
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: ABC HY19
+    date: 2019-08-29
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CMW FY19
+    date: 2019-08-29
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: VRL FY19
+    date: 2019-08-29
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: IGO FY19
+    date: 2019-08-29
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: RHC FY19
+    date: 2019-08-30
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: CLH FY19
+    date: 2019-08-30
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: REH FY19
+    date: 2019-08-30
+    description: From https://www.commsec.com.au/reportingseason
+  - summary: NST FY19
+    date: 2019-08-30
+    description: From https://www.commsec.com.au/reportingseason
