@@ -9,4 +9,4 @@ echo "Generating calendar file"
 ./auto/environment python output-events.py
 
 echo "Upload to S3"
-./auto/environment aws s3 cp output/scrappy-asx-calendar.ics s3://${S3_BUCKET}/magic/ --cache-control max-age=0
+./auto/environment aws s3 cp output/scrappy-asx-calendar.ics s3://${S3_BUCKET}/magic/ --cache-control max-age=300
