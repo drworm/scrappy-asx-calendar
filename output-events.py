@@ -29,7 +29,7 @@ for json_event in data['events']:
     cal.add_component(event)
     uid += 1
 
-filename = "output/scrappy-asx-fy19-calendar.ics"
+filename = "output/scrappy-asx-calendar.ics"
 os.makedirs(os.path.dirname(filename), exist_ok=True)
 f = open(filename, 'wb')
 f.write(cal.to_ical())
