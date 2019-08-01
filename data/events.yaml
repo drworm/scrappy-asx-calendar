@@ -117,6 +117,9 @@ events:
   - summary: HLS FY19
     date: 2019-08-16
     description: From https://www.commsec.com.au/reportingseason
+  - summary: JIN FY19
+    date: 2019-08-16
+    description: From https://youtu.be/_aN-D_lpZG0
   - summary: NCM FY19
     date: 2019-08-16
     description: From https://www.commsec.com.au/reportingseason
@@ -162,6 +165,9 @@ events:
   - summary: MND FY19
     date: 2019-08-20
     description: From https://www.commsec.com.au/reportingseason
+  - summary: IPH FY19
+    date: 2019-08-20
+    description: From https://youtu.be/_aN-D_lpZG0
   - summary: A2M FY19
     date: 2019-08-21
     description: From https://www.commsec.com.au/reportingseason
@@ -326,6 +332,9 @@ events:
   - summary: OZL HY19
     date: 2019-08-28
     description: From https://www.commsec.com.au/reportingseason
+  - summary: SHJ FY19
+    date: 2019-08-28
+    description: From https://youtu.be/_aN-D_lpZG0
   - summary: WOW FY19
     date: 2019-08-29
     description: From https://www.commsec.com.au/reportingseason
