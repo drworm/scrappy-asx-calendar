@@ -315,6 +315,11 @@ events:
   - summary: CTX HY19
     date: 2019-08-27
     description: From https://www.commsec.com.au/reportingseason
+  - summary: PNC HY19
+    date: 2019-08-27
+    description: |
+      According to the ASX Announcement: https://www.asx.com.au/asx/statistics/displayAnnouncement.do?display=pdf&idsId=02129449
+      Conference call details are described in the document and will occur 9am (AWST) / 11am (AEST)
   - summary: BAL FY19
     date: 2019-08-28
     description: From https://www.commsec.com.au/reportingseason
