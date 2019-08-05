@@ -291,6 +291,11 @@ events:
   - summary: WPP HY19
     date: 2019-08-23
     description: From https://www.commsec.com.au/reportingseason
+  - summary: AD8 FY19
+    date: 2019-08-23
+    description: |
+      According to the ASX Announcement: https://www.asx.com.au/asxpdf/20190805/pdf/447773ybbr24hf.pdf
+      Conference call details are described in the document and will occur 10am AEST
   - summary: FMG FY19
     date: 2019-08-26
     description: From https://www.commsec.com.au/reportingseason
