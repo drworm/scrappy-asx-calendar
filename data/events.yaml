@@ -42,9 +42,15 @@ events:
   - summary: IAG FY19
     date: 2019-08-08
     description: From https://www.commsec.com.au/reportingseason
+  - summary: REA FY19
+    date: 2019-08-09
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: AZJ FY19
     date: 2019-08-12
     description: From https://www.commsec.com.au/reportingseason
+  - summary: COE FY19
+    date: 2019-08-12
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: GTP HY19
     date: 2019-08-12
     description: From https://www.commsec.com.au/reportingseason
@@ -60,12 +66,18 @@ events:
   - summary: ANN FY19
     date: 2019-08-12
     description: From https://www.commsec.com.au/reportingseason
+  - summary: CLW FY19
+    date: 2019-08-12
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: CGF FY19
     date: 2019-08-13
     description: From https://www.commsec.com.au/reportingseason
   - summary: MFG FY19
     date: 2019-08-13
     description: From https://www.commsec.com.au/reportingseason
+  - summary: ARF FY19
+    date: 2019-08-13
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: TAH FY19
     date: 2019-08-14
     description: From https://www.commsec.com.au/reportingseason
@@ -78,6 +90,12 @@ events:
   - summary: DXS FY19
     date: 2019-08-14
     description: From https://www.commsec.com.au/reportingseason
+  - summary: VCX FY19
+    date: 2019-08-14
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SKC FY19
+    date: 2019-08-14
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: ASX FY19
     date: 2019-08-15
     description: From https://www.commsec.com.au/reportingseason
@@ -105,6 +123,18 @@ events:
   - summary: BKL FY19
     date: 2019-08-15
     description: From https://www.commsec.com.au/reportingseason
+  - summary: ORA FY19
+    date: 2019-08-15
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: TWE FY19
+    date: 2019-08-15
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: IVC FY19
+    date: 2019-08-15
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CWY FY19
+    date: 2019-08-15
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: BBN FY19
     date: 2019-08-16
     description: From https://www.commsec.com.au/reportingseason
@@ -126,6 +156,12 @@ events:
   - summary: SGR FY19
     date: 2019-08-16
     description: From https://www.commsec.com.au/reportingseason
+  - summary: SIQ FY19
+    date: 2019-08-16
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ABP FY19
+    date: 2019-08-16
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: ALU FY19
     date: 2019-08-19
     description: From https://www.commsec.com.au/reportingseason
@@ -141,6 +177,21 @@ events:
   - summary: LLC FY19
     date: 2019-08-19
     description: From https://www.commsec.com.au/reportingseason
+  - summary: BPT FY19
+    date: 2019-08-19
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: WGN FY19
+    date: 2019-08-19
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: IFM FY19
+    date: 2019-08-19
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: NWL FY19
+    date: 2019-08-19
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: AYS FY19
+    date: 2019-08-19
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: BHP FY19
     date: 2019-08-20
     description: From https://www.commsec.com.au/reportingseason
@@ -168,6 +219,51 @@ events:
   - summary: IPH FY19
     date: 2019-08-20
     description: From https://youtu.be/_aN-D_lpZG0
+  - summary: KGN FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: VRT FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: OML HY20
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: GDI FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: NAN FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: PTM FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CWP FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: AHY HY20
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: AUB FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ARB FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SPK FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: VLW FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SWM FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CL1 FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CHC FY19
+    date: 2019-08-20
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: A2M FY19
     date: 2019-08-21
     description: From https://www.commsec.com.au/reportingseason
@@ -210,6 +306,63 @@ events:
   - summary: BXB FY19
     date: 2019-08-21
     description: From https://www.commsec.com.au/reportingseason
+  - summary: FXL FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: INA FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: BAP FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: BXB FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SLR FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: APA FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ILU HY20
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: RIC FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ING FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: WOR FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CAR FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: HPI FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: FBU FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CDD FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CTD FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: MP1 FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ADI FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ATM FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: NEA FY19
+    date: 2019-08-21
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: GOZ FY19
     date: 2019-08-22
     description: From https://www.commsec.com.au/reportingseason
@@ -270,6 +423,57 @@ events:
   - summary: ORG FY19
     date: 2019-08-22
     description: From https://www.commsec.com.au/reportingseason
+  - summary: PME FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: BIN FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: NWH FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: NSR FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: IMF FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: WSA FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: IFN FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: LOV FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: NEC FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: FLT FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: AIA FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: MIN FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: IEL FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SGF FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: VVR HY20
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: REG FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: IRI FY19
+    date: 2019-08-22
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: BWX FY19
     date: 2019-08-23
     description: From https://www.commsec.com.au/reportingseason
@@ -296,6 +500,27 @@ events:
     description: |
       According to the ASX Announcement: https://www.asx.com.au/asxpdf/20190805/pdf/447773ybbr24hf.pdf
       Conference call details are described in the document and will occur 10am AEST
+  - summary: AHG FY19
+    date: 2019-08-23
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: OMH HY20
+    date: 2019-08-23
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SGM FY19
+    date: 2019-08-23
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: AX1 FY19
+    date: 2019-08-23
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CGC FY19
+    date: 2019-08-23
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: PLS FY19
+    date: 2019-08-23
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ALG FY19
+    date: 2019-08-23
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: FMG FY19
     date: 2019-08-26
     description: From https://www.commsec.com.au/reportingseason
@@ -305,18 +530,36 @@ events:
   - summary: RIC FY19
     date: 2019-08-26
     description: From https://www.commsec.com.au/reportingseason
-  - summary: AYS FY19
-    date: 2019-08-26
-    description: From https://www.commsec.com.au/reportingseason
-  - summary: GEM FY19
-    date: 2019-08-26
-    description: From https://www.commsec.com.au/reportingseason
   - summary: MVF FY19
     date: 2019-08-26
     description: From https://www.commsec.com.au/reportingseason
   - summary: BLD FY19
     date: 2019-08-26
     description: From https://www.commsec.com.au/reportingseason
+  - summary: GEM HY20
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: IGL FY19
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: MAH FY19
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: VEA HY20
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: MLD FY19
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: AMA FY19
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CNU FY19
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: BSE FY19
+    date: 2019-08-26
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: WES FY19
     date: 2019-08-27
     description: From https://www.commsec.com.au/reportingseason
@@ -331,6 +574,39 @@ events:
     description: |
       According to the ASX Announcement: https://www.asx.com.au/asx/statistics/displayAnnouncement.do?display=pdf&idsId=02129449
       Conference call details are described in the document and will occur 9am (AWST) / 11am (AEST)
+  - summary: HUB FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: RFF FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: PDN FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: MNY FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: AMI FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: RWC FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CLQ FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SKI HY20
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SFR FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SDA FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SLC FY19
+    date: 2019-08-27
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: BAL FY19
     date: 2019-08-28
     description: From https://www.commsec.com.au/reportingseason
@@ -340,6 +616,18 @@ events:
   - summary: SHJ FY19
     date: 2019-08-28
     description: From https://youtu.be/_aN-D_lpZG0
+  - summary: BVS FY19
+    date: 2019-08-28
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: CVN FY19
+    date: 2019-08-28
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: OZL HY20
+    date: 2019-08-28
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: SPL FY19
+    date: 2019-08-28
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: WOW FY19
     date: 2019-08-29
     description: From https://www.commsec.com.au/reportingseason
@@ -358,6 +646,18 @@ events:
   - summary: IGO FY19
     date: 2019-08-29
     description: From https://www.commsec.com.au/reportingseason
+  - summary: CUV FY19
+    date: 2019-08-29
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: GXY HY20
+    date: 2019-08-29
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: APX HY20
+    date: 2019-08-29
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: ALX HY20
+    date: 2019-08-29
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
   - summary: RHC FY19
     date: 2019-08-30
     description: From https://www.commsec.com.au/reportingseason
@@ -373,3 +673,15 @@ events:
   - summary: NST FY19
     date: 2019-08-30
     description: From https://www.collectionhouse.com.au/investors-key-dates
+  - summary: NXT FY19
+    date: 2019-08-30
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: MLX FY19
+    date: 2019-08-30
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: FAR HY20
+    date: 2019-08-30
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
+  - summary: HVN FY19
+    date: 2019-08-30
+    description: From https://www.afr.com/markets/equity-markets/afr-profit-season-calendar-20190806-p52ed9
